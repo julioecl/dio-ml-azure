@@ -125,8 +125,8 @@ When the automated machine learning job has completed, you can review the best m
   2. Select the text under **Algorithm name** for the best model to view its details.
 
   3. Select the **Metrics** tab and select the **residuals** and **predicted_true** charts if they are not already selected.
-
-    Review the charts which show the performance of the model. The **residuals** chart shows the residuals (the differences between predicted and actual values) as a histogram. The **predicted_true** chart compares the predicted values against the true values.
+     
+  Review the charts which show the performance of the model. The **residuals** chart shows the residuals (the differences between predicted and actual values) as a histogram. The **predicted_true** chart compares the predicted values against the true values.
 
 ## Deploy and test the model
 
@@ -184,7 +184,7 @@ Now you can test your deployed service.
     }
     ```
 
-    The test pane took the input data and used the model you trained to return the predicted number of rentals.
+  The test pane took the input data and used the model you trained to return the predicted number of rentals.
 
 Let’s review what you have done. You used a dataset of historical bicycle rental data to train a model. The model predicts the number of bicycle rentals expected on a given day, based on seasonal and meteorological features.
 
