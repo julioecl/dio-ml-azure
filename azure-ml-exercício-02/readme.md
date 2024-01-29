@@ -1,4 +1,4 @@
-## Extract text from images in the Vision Studio
+# Extract text from images in the Vision Studio
 
 1. In a web browser, navigate to **Vision Studio** at https://portal.vision.cognitive.azure.com.
 
@@ -8,7 +8,7 @@
 
 4. You can now try with your image. Select **Browse for a file** and navigate to the folder where you saved your file. Select the file.
 
-Here some tests made with my images.
+## Here some tests made with my images.
 
 ![Result of DSC01047.JPG](./inputs/Captura%20de%20tela%202024-01-29%20174426.png)
 
