@@ -8,6 +8,8 @@
 
 4. You can now try with your image. Select **Browse for a file** and navigate to the folder where you saved your file. Select the file.
 
+Here some tests made with my images.
+
 ![Result of DSC01047.JPG](./inputs/Captura%20de%20tela%202024-01-29%20174426.png)
 
 ![Result of IMG_20151114_171410310.jpg](./inputs/Captura%20de%20tela%202024-01-29%20174534.png)
